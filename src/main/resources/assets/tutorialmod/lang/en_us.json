@@ -1,0 +1,10 @@
+{
+  "item.tutorialmod.nigron": "Nigron",
+  "item.tutorialmod.raw_nigron": "Raw Nigron",
+
+  "itemGroup.tutorialtab": "Nigric Gemeralds",
+
+  "block.tutorialmod.nigron_block": "Nigron Block",
+  "block.tutorialmod.nigron_ore": "Nigron Ore",
+  "block.tutorialmod.deepslate_nigron_ore": "Deepslate Nigron Ore"
+}
